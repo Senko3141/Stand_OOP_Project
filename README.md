@@ -1,4 +1,4 @@
-# Stand_OOP_Project
+# Stand_OOP_Project [INCOMPLETE]
 
 ## Client Script:
 ### 25 Lines
